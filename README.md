@@ -6,7 +6,7 @@
 ### 🧠 About Me
 
 - 🎓 First Year B.Tech Computer Science student at **SGGSIET, Nanded, Maharashtra**
-- - ✅ Confident in **Core Java** and have **mastered Object-Oriented Programming (OOPs)** principles
+-  ✅ Confident in **Core Java** and have **mastered Object-Oriented Programming (OOPs)** principles
 - 📚 Currently focused on mastering **Data Structures & Algorithms (DSA)** for technical interviews and real-world problem solving
 🚀 Skilled in developing **RESTful APIs using Spring Boot**, with clean architecture and real-world features  
 - 👩‍💻 Actively building: `Supermarket Inventory Management System` (Full Stack Spring Boot + React)  
