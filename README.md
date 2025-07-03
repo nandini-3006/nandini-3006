@@ -17,14 +17,14 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="70"/>
 </p>
 
 ---
@@ -48,11 +48,12 @@
 
 <p align="left">
   <img src="https://github.com/nandini-3006/nandini-3006/blob/main/scalar_certificate.png?raw=true" width="250" height="250" alt="Scaler"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-07-03%20222451.png?raw=true" width="250" height="250" alt="Postman Badge"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-07-03%20222451.png?raw=true" width="300" height="250" alt="Postman Badge"/>
   <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-03%20161416.png?raw=true" width="250" height="250" alt="HackerRank"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-28%20141701.png?raw=true" width="250" height="250" alt="LeetCode 100"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-03-24%20230838.png?raw=true" width="250" height="250" alt="Social Summer of Code"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-28%20141701.png?raw=true" width="300" height="250" alt="LeetCode 100"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-03-24%20230838.png?raw=true" width="300" height="250" alt="Social Summer of Code"/>
 </p>
+
 
 ### 📈 GitHub Stats
 
