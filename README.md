@@ -47,11 +47,11 @@
 ### 📚 Achievements & Certifications
 
 <p align="left">
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/scalar_certificate.png?raw=true" width="220" alt="Scaler"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-07-03%20222451.png?raw=true" width="240" alt="Postman Badge"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-03%20161416.png?raw=true" width="210" alt="HackerRank"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-28%20141701.png?raw=true" width="240" alt="LeetCode 100"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-03-24%20230838.png?raw=true" width="240" alt="Social Summer of Code"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/scalar_certificate.png?raw=true" width="190" alt="Scaler"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-07-03%20222451.png?raw=true" width="210" alt="Postman Badge"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-03%20161416.png?raw=true" width="180" alt="HackerRank"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-28%20141701.png?raw=true" width="210" alt="LeetCode 100"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-03-24%20230838.png?raw=true" width="210" alt="Social Summer of Code"/>
 </p>
 
 
