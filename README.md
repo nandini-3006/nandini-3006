@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
+<h1 align="center">Hi 👋, I'm Nandini</h1>
 <h3 align="center">B.Tech CSE Student|DSA Learner|Java & Spring Boot Developer | Robotics Enthusiast 🤖</h3>
 
 ---
