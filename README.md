@@ -47,11 +47,11 @@
 ### 📚 Achievements & Certifications
 
 <p align="left">
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/scalar_certificate.png?raw=true" width="250" alt="Scaler"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-07-03%20222451.png?raw=true" width="250" alt="Postman Badge"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-03%20161416.png?raw=true" width="250" alt="HackerRank"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-28%20141701.png?raw=true" width="250" alt="LeetCode 100"/>
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-03-24%20230838.png?raw=true" width="250" alt="Social Summer of Code"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/scalar_certificate.png?raw=true" width="250" height="250" alt="Scaler"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-07-03%20222451.png?raw=true" width="250" height="250" alt="Postman Badge"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-03%20161416.png?raw=true" width="250" height="250" alt="HackerRank"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-28%20141701.png?raw=true" width="250" height="250" alt="LeetCode 100"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-03-24%20230838.png?raw=true" width="250" height="250" alt="Social Summer of Code"/>
 </p>
 
 ### 📈 GitHub Stats
@@ -63,13 +63,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini-3006&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandini-3006&theme=gruvbox&no-frame=true&margin-w=10"/>
-</p>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nandini-3006&color=blue&style=flat-square)
-
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nandini-s-61573b22b/)  
