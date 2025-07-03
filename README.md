@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
-<h3 align="center">B.Tech CSE Student | Java & Spring Boot Developer | DSA Learner | Robotics Enthusiast 🤖</h3>
+<h3 align="center">B.Tech CSE Student|DSA Learner|Java & Spring Boot Developer | Robotics Enthusiast 🤖</h3>
 
 ---
 
 ### 🧠 About Me
 
 - 🎓 First Year B.Tech Computer Science student at **SGGSIET, Nanded, Maharashtra**
-- ☕ Building strong skills in **Java**, **Spring Boot**, **REST APIs**, and **DSA**
-- 🤖 Robotics fan: Worked on **ESP32 automation** and **Line Follower** bot projects
-- 👩‍💻 Currently building: `Supermarket Inventory Management System` (Full-Stack)
-- 🧪 Postman API Student Expert | Scaler Spring Boot Certified
-- 💡 Exploring **JWT Auth**, **Microcontrollers**, **Automation**, and **Real-world REST APIs**
+- - ✅ Confident in **Core Java** and have **mastered Object-Oriented Programming (OOPs)** principles
+- 📚 Currently focused on mastering **Data Structures & Algorithms (DSA)** for technical interviews and real-world problem solving
+🚀 Skilled in developing **RESTful APIs using Spring Boot**, with clean architecture and real-world features  
+- 👩‍💻 Actively building: `Supermarket Inventory Management System` (Full Stack Spring Boot + React)  
+-  🤖 Robotics fan: Worked on **ESP32 automation** and **Line Follower** bot projects
 
 ---
 
@@ -20,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
@@ -34,37 +33,26 @@
 
 - 🚀 [`Supermarket-Inventory-Management-System`](https://github.com/nandini-3006/Supermarket-Inventory-Management-System)  
   Full Stack inventory system using Spring Boot + React
-
 - 📘 [`RestApi-with-Springboot-framework-for-Robotics-Application`](https://github.com/nandini-3006/RestApi-with-Springboot-framework-for-Robotics-Application)  
   Robotics API handling commands via JSON
-
 - 📒 [`taskmanager-springboot`](https://github.com/nandini-3006/taskmanager-springboot)  
   CRUD app for managing tasks with JPA + MySQL
-
 - 🔐 [`blogging-app`](https://github.com/nandini-3006/blogging-app)  
   Blog backend with JWT Auth, RBAC, secure endpoints
-
 - 🤖 [`ESP32-Servo-automatic-gate`](https://github.com/nandini-3006/ESP32-Servo-automatic-gate)  
   ESP-based motion-triggered gate system
-
 - 📍 [`Line-Follower`](https://github.com/nandini-3006/Line-Follower)  
   Arduino-based robot for line tracking
 
----
-
 ### 📚 Achievements & Certifications
 
-## 📜 Verified Certificates
-
-- [🎓 HackerRank Java Gold Star](https://www.hackerrank.com/sharmanandini301)
-- [📘 Postman API Student Expert Badge](https://badgr.com/public/assertions/Xki5ZufgRTiVAC4dDSf7ZQ?identity__email=sharmanandini3006@gmail.com)
-- [🌱 Scaler Spring Boot Essentials](https://moonshot.scaler.com/s/li/b-2ECZtvbc)
 <p align="left">
-  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-28%20141701.png?raw=true" width="400" alt="100 LeetCode Questions Badge"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/scalar_certificate.png?raw=true" width="250" alt="Scaler"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-07-03%20222451.png?raw=true" width="250" alt="Postman Badge"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-03%20161416.png?raw=true" width="250" alt="HackerRank"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-06-28%20141701.png?raw=true" width="250" alt="LeetCode 100"/>
+  <img src="https://github.com/nandini-3006/nandini-3006/blob/main/Screenshot%202025-03-24%20230838.png?raw=true" width="250" alt="Social Summer of Code"/>
 </p>
-- 🌍 **Contributor at Social Summer of Code**
-
----
 
 ### 📈 GitHub Stats
 
@@ -75,8 +63,12 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini-3006&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nandini-3006&theme=gruvbox&no-frame=true&margin-w=10"/>
+</p>
 
----
+![Visitor Count](https://komarev.com/ghpvc/?username=nandini-3006&color=blue&style=flat-square)
+
 
 ### 🌐 Connect With Me
 
