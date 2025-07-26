@@ -65,7 +65,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini-3006&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-![](https://komarev.com/ghpvc/?username=nandini-3006&color=blue)
 ## 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/nandini-s-61573b22b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="30"/>
@@ -76,6 +75,6 @@
 <a href="https://github.com/nandini-3006">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" height="30"/>
 </a>
-
+![](https://komarev.com/ghpvc/?username=nandini-3006&color=blue)
 ### 🚀 Let's Build, Learn & Grow Together 💪
 
