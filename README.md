@@ -1,7 +1,7 @@
 ````md
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hey+There+%F0%9F%91%8B;I'm+Nandini+Sharma+%F0%9F%92%96;Backend+Developer+%7C+ML+Engineer;Spring+Boot+%E2%9C%A8+FastAPI+%E2%9C%A8+AI%2FML;Building+Cool+Things+at+2AM+%F0%9F%8C%99" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hey+There+👋;I'm+Nandini+Sharma+💖;Backend+Developer+|+ML+Engineer;Spring+Boot+✨+FastAPI+✨+AI/ML;Building+Cool+Things+at+2AM+🌙" />
 
 <br>
 
@@ -11,6 +11,7 @@
 
 💖 Backend Developer  
 🧠 ML Engineer  
+🌙 Girls Who Code Energy  
 ✨ Open Source Contributor  
 
 <br>
@@ -49,6 +50,8 @@ Roles:
 <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,mysql,redis,docker,git,linux,postman" />
 
 </div>
+
+<br>
 
 ### 👩‍💻 Languages & Fundamentals
 
