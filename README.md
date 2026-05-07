@@ -11,7 +11,6 @@
 
 💖 Backend Developer  
 🧠 ML Engineer  
-🌙 Girls Who Code Energy  
 ✨ Open Source Contributor  
 
 <br>
@@ -30,7 +29,6 @@
 
 # 💫 About Me
 
-```yaml
 Name: Nandini Sharma
 
 Education:
