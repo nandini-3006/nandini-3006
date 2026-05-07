@@ -29,9 +29,12 @@
 # 💫 About Me
 
 💖 Backend Developer
+
 🧠 ML Engineer
+
 🎓 B.Tech CSE @ SGGSIE&T
-🌙 Passionate about AI/ML, scalable backend systems & distributed architectures
+
+🌙 Passionate about AI/ML, scalable backend systems 
 
 ---
 
