@@ -126,7 +126,7 @@ Smart inventory and billing management system with real-time stock tracking, pro
 
 <div align="center">
 
-### 🌙 "Code. Coffee. Chaos. Repeat."
+### 🌙 "Learning and Improving."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
