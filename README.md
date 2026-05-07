@@ -110,21 +110,7 @@ Smart inventory and billing management system with real-time stock tracking, pro
 
 # 📈 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandini-3006&show_icons=true&theme=radical&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nandini-3006&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini-3006&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nandini-3006&show_icons=true&theme=radical" height="165"/> <img src="https://streak-stats.demolab.com?user=Nandini-3006&theme=radical" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-3006&layout=compact&theme=radical"/> </p>
 
 ### 🌙 "Learning and Improving."
 
