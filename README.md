@@ -1,5 +1,3 @@
-:::writing{variant="standard" id="86124"}
-```md id="c3tb9m"
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hey+There+👋;I'm+Nandini+Sharma+💖;Backend+Developer+|+ML+Engineer;Spring+Boot+✨+FastAPI+✨+AI/ML;Building+Cool+Things+at+2AM+🌙" />
@@ -10,9 +8,9 @@
 
 # 🌸 Nandini Sharma
 
-💖 Backend Developer  
-🧠 ML Engineer  
-✨ Open Source Contributor  
+💖 Backend Developer
+🧠 ML Engineer
+✨ Open Source Contributor
 
 <br>
 
@@ -30,15 +28,10 @@
 
 # 💫 About Me
 
-Name: Nandini Sharma
-
-Education:
-  B.Tech CSE @ SGGSIE&T
-
-Roles:
-  - Backend Developer
-  - ML Engineer
-````
+💖 Backend Developer
+🧠 ML Engineer
+🎓 B.Tech CSE @ SGGSIE&T
+🌙 Passionate about AI/ML, scalable backend systems & distributed architectures
 
 ---
 
@@ -135,4 +128,3 @@ Smart inventory and billing management system with real-time stock tracking, pro
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
 </div>
-```
