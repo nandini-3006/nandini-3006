@@ -65,6 +65,13 @@ Supervised & Unsupervised Learning • Data Preprocessing • Feature Engineerin
 Docker • Git • Linux • Postman
 
 ---
+## 🚀 Open Source
+
+I actively contribute to open-source projects, with a focus on backend development.
+
+| Project | Contributions |
+|---|---|
+| **FOSSASIA Eventyay** | [View PRs →](https://github.com/fossasia/eventyay/pulls?q=is%3Apr+author%3ANandiniSharma) |
 
 # 🌸 Technical Highlights
 
