@@ -65,13 +65,11 @@ Supervised & Unsupervised Learning • Data Preprocessing • Feature Engineerin
 Docker • Git • Linux • Postman
 
 ---
-## 🚀 Open Source
+## 🚀 Open Source Contributions
 
-I actively contribute to open-source projects, with a focus on backend development.
+[![My PRs](https://img.shields.io/badge/GitHub-My%20Pull%20Requests-181717?logo=github)](https://github.com/pulls?q=is%3Apr+author%3Anandini-3006)
 
-| Project | Contributions |
-|---|---|
-| **FOSSASIA Eventyay** | [View PRs →](https://github.com/fossasia/eventyay/pulls?q=is%3Apr+author%3ANandiniSharma) |
+**[View all my Pull Requests →](https://github.com/pulls?q=is%3Apr+author%3Anandini-3006)**
 
 # 🌸 Technical Highlights
 
