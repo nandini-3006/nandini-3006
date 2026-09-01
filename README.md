@@ -71,8 +71,7 @@ I actively contribute to open-source projects, with a focus on backend developme
 
 | Project | Contributions |
 |---|---|
-| **FOSSASIA Eventyay** | [View PRs →](https://github.com/fossasia/eventyay/pulls?q=is%3Apr+author%3Anandini-3006) |
-
+| **FOSSASIA Contributions** | [View All PRs →](https://github.com/search?q=org%3Afossasia+author%3Anandini-3006+is%3Apr&type=pullrequests) |
 # 🌸 Technical Highlights
 
 ✨ Finalist — National AI Hackathon (Ignisia 2026) among 450+ teams
